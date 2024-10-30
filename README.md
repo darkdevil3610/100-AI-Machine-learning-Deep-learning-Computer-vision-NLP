@@ -116,6 +116,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 104   | 100 days of ML   | [👆](https://github.com/campusx-official/100-days-of-machine-learning) |
 | 105   | data_science_all_in_one   | [👆](https://github.com/venugopal1902/data_science_all_in_one) |
 | 106   | Machine and Deep Learning related projects   | [👆](https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects) |
+| 107   | Machine Learning related projects   | [👆](https://github.com/anujvyas/Machine-Learning-Projects) |
+
 
 ***More Projects list is coming...!!!***
 
