@@ -117,7 +117,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 105   | data_science_all_in_one   | [👆](https://github.com/venugopal1902/data_science_all_in_one) |
 | 106   | Machine and Deep Learning related projects   | [👆](https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects) |
 | 107   | Machine Learning related projects   | [👆](https://github.com/anujvyas/Machine-Learning-Projects) |
-
+| 108   | Machine Learning Model on Flash App  | [👆](https://github.com/nitinkaushik01/Deploy_Machine_Learning_Model_on_Flask_App) |
 
 ***More Projects list is coming...!!!***
 
