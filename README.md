@@ -120,6 +120,10 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 108   | Machine Learning Model on Flash App  | [👆](https://github.com/nitinkaushik01/Deploy_Machine_Learning_Model_on_Flask_App) |
 | 109   | Deep learning projects   | [👆](https://github.com/aswintechguy/Deep-Learning-Projects) |
 | 110   | Machine learning projects   | [👆](https://github.com/aswintechguy/Machine-Learning-Projects) |
+| 111   | Data Analytics Projects  | [👆](https://github.com/CICIFLY/Data-Analytics-Projects) |
+| 112   | Predict Loan Using Machine Learning   | [👆](https://github.com/CICIFLY/Predict_Loan_Using_Machine_Learning_Algorithms_in_Python) |
+| 113   | Heart Attack Analysis  | [👆](https://github.com/uditmahato/heart-attack-analysis) |
+
 
 
 ***More Projects list is coming...!!!***
