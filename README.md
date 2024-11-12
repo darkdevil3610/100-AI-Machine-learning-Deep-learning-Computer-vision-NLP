@@ -123,6 +123,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 111   | Data Analytics Projects  | [👆](https://github.com/CICIFLY/Data-Analytics-Projects) |
 | 112   | Predict Loan Using Machine Learning   | [👆](https://github.com/CICIFLY/Predict_Loan_Using_Machine_Learning_Algorithms_in_Python) |
 | 113   | Heart Attack Analysis  | [👆](https://github.com/uditmahato/heart-attack-analysis) |
+| 114   | Predict the Rice quality like good or bad by ML | [👆](https://github.com/Ramyadeveloper59/CLASSIFICATION-AND-PREDICTION-OF-RICE-QUALITY-BY-USING-MACHINE-LEARNING-TECHNIQUE.) |
 
 
 
