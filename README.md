@@ -119,6 +119,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 107   | Machine Learning related projects   | [👆](https://github.com/anujvyas/Machine-Learning-Projects) |
 | 108   | Machine Learning Model on Flash App  | [👆](https://github.com/nitinkaushik01/Deploy_Machine_Learning_Model_on_Flask_App) |
 | 109   | Deep learning projects   | [👆](https://github.com/aswintechguy/Deep-Learning-Projects) |
+| 110   | Machine learning projects   | [👆](https://github.com/aswintechguy/Machine-Learning-Projects) |
 
 
 ***More Projects list is coming...!!!***
