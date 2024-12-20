@@ -126,6 +126,9 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 114   | Predict the Rice quality like good or bad by ML | [👆](https://github.com/Ramyadeveloper59/CLASSIFICATION-AND-PREDICTION-OF-RICE-QUALITY-BY-USING-MACHINE-LEARNING-TECHNIQUE.) |
 | 115   |  Diamond Price Prediction   | [👆](https://github.com/shubhamprajapati7748/End-to-End-Diamond-Price-Prediction) |
 | 116   | Chatbot using Gemini Pro  | [👆](https://github.com/shubhamprajapati7748/gemini-pro-chat) |
+| 117   | Boston House Price Prediction  | [👆](https://github.com/shubhamprajapati7748/End-to-End-House-Price-Prediction) |
+| 118   | Student Performance Prediction  | [👆](https://github.com/shubhamprajapati7748/End-to-End-Student-Performance-Prediction) |
+
 
 
 ***More Projects list is coming...!!!***
