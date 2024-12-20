@@ -124,7 +124,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 112   | Predict Loan Using Machine Learning   | [👆](https://github.com/CICIFLY/Predict_Loan_Using_Machine_Learning_Algorithms_in_Python) |
 | 113   | Heart Attack Analysis  | [👆](https://github.com/uditmahato/heart-attack-analysis) |
 | 114   | Predict the Rice quality like good or bad by ML | [👆](https://github.com/Ramyadeveloper59/CLASSIFICATION-AND-PREDICTION-OF-RICE-QUALITY-BY-USING-MACHINE-LEARNING-TECHNIQUE.) |
-
+| 115   |  Diamond Price Prediction   | [👆](https://github.com/shubhamprajapati7748/End-to-End-Diamond-Price-Prediction) |
+| 116   | Chatbot using Gemini Pro  | [👆](https://github.com/shubhamprajapati7748/gemini-pro-chat) |
 
 
 ***More Projects list is coming...!!!***
