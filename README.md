@@ -129,6 +129,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 117   | Boston House Price Prediction  | [👆](https://github.com/shubhamprajapati7748/End-to-End-House-Price-Prediction) |
 | 118   | Student Performance Prediction  | [👆](https://github.com/shubhamprajapati7748/End-to-End-Student-Performance-Prediction) |
 | 119   |  Gesture Controlled Virtual Mouse | [👆](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) |
+| 120   | Medical Recommendation System predicts diseases based on user-input symptoms  | [👆](https://github.com/Ktrimalrao/Medicine-Recommendation-System) |
+
 
 
 
