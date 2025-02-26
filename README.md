@@ -130,6 +130,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 118   | Student Performance Prediction  | [👆](https://github.com/shubhamprajapati7748/End-to-End-Student-Performance-Prediction) |
 | 119   |  Gesture Controlled Virtual Mouse | [👆](https://github.com/Viral-Doshi/Gesture-Controlled-Virtual-Mouse) |
 | 120   | Medical Recommendation System predicts diseases based on user-input symptoms  | [👆](https://github.com/Ktrimalrao/Medicine-Recommendation-System) |
+| 121   |  Regression model for Big City Health Inventory data | [👆](https://github.com/WASSUP-AIModel-3rd-Project1/Project-1) |
+| 122   | Spotify Music recommendation system using ML | [👆](https://github.com/dahoodmans/Spotify-Music-Recommender) |
 
 
 
