@@ -135,6 +135,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 123   |  10 Latest Final Year Project Includes Source Code, PPT etc.(zip)  | [👆](https://github.com/aliasghar100/10-Latest-Final-Year-Projects-with-Source-Code) |
 | 124   |  A list of popular github projects related to deep learning | [👆](https://github.com/aymericdamien/TopDeepLearning) |
 | 125   |  Motion Detector and Email Sender with PiCamera2 and OpenCV  | [👆](https://github.com/aranbarri/motion-detector-mailsender) |
+| 126   |  License Plate Detection with YOLOv11 and PaddleOCR | [👆](https://github.com/MAX134/DeepPlate) |
 
 
 
