@@ -137,7 +137,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 125   |  Motion Detector and Email Sender with PiCamera2 and OpenCV  | [👆](https://github.com/aranbarri/motion-detector-mailsender) |
 | 126   |  License Plate Detection with YOLOv11 and PaddleOCR | [👆](https://github.com/MAX134/DeepPlate) |
 | 127   |  Sign Language Recognition for Deaf and Dumb | [👆](https://github.com/davidlopez1190/Sign-Language-Recognition) |
-
+| 128   |  AI model to convert sign language pictures and videos to text | [👆](https://github.com/justsomerandomdude264/Sign_Language_Converter) |
 
 
 
