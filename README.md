@@ -144,6 +144,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 132   |  AI-powered article summarizer of TheVerge    | [👆](https://github.com/jaideep156/TheVerge-Summarizer) |
 | 133   |  Recommending music based on your facial expressions    | [👆](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression) |
 | 134   |  AI-Powered Medical Consultation    | [👆](https://github.com/jw0902/MediAssist) |
+| 135   |  YouTube MCP Server , an AI-powered solution for YouTube experience | [👆](https://github.com/blukglug/Youtube-MCP) |
 
 
 
