@@ -140,6 +140,9 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 128   |  AI model to convert sign language pictures and videos to text | [👆](https://github.com/justsomerandomdude264/Sign_Language_Converter) |
 | 129   |  AI based chatbot forntend on reactjs and backend on python flask | [👆](https://github.com/Hamza-Rafique/chatbot) |
 | 130   |  Detecting phishing websites using machine learning techniques | [👆](https://github.com/praneeth-katuri/PhishShield) |
+| 131   |  News Summarizer is an AI-powered platform | [👆](https://github.com/singhsourav0/NewsMinorProject) |
+
+
 
 
 ***More Projects list is coming...!!!***
