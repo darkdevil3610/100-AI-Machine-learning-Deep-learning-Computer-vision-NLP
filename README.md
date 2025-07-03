@@ -146,6 +146,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 134   |  AI-Powered Medical Consultation    | [👆](https://github.com/jw0902/MediAssist) |
 | 135   |  YouTube MCP Server , an AI-powered solution for YouTube experience | [👆](https://github.com/blukglug/Youtube-MCP) |
 | 136   |  Signature Recognizer 🖊️   | [👆](https://github.com/ohyeasabhi/signature-recognizer) |
+| 137   |  CV and ML to analyze mental health based on face   | [👆](https://github.com/galihru/facemind) |
 
 
 
