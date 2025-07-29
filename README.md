@@ -152,6 +152,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 140   |  A face recognition based real-time security screening system  | [👆](https://github.com/SomdattaNag/Security-Screening-System) |
 | 141   |  Real-time helmet detection using ESP32-CAM and YOLOv3  | [👆](https://github.com/Dorababu70/helmet-detection-yolov3-esp32-cam) |
 | 142   |  AI-powered disaster response platform with offline-first architecture using Gemma 3n  | [👆](https://github.com/rembertdesigns/gemma3n-disaster-assistant) |
+| 143   |  News Summarizer is an AI-powered platform  | [👆](https://github.com/singhsourav0/NewsMinorProject) |
 
 
 
