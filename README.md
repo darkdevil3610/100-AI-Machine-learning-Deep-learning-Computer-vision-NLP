@@ -154,6 +154,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 142   |  AI-powered disaster response platform with offline-first architecture using Gemma 3n  | [👆](https://github.com/rembertdesigns/gemma3n-disaster-assistant) |
 | 143   |  News Summarizer is an AI-powered platform  | [👆](https://github.com/singhsourav0/NewsMinorProject) |
 | 144   |  Advanced Internship Fraud Detection Platform | [👆](https://github.com/SouravUpadhyay7/SnifTern.ai) |
+| 145   |  E-commerce web platform that allows farmers to buy and sell agricultural goods.  | [👆](https://github.com/MOHDNEHALKHAN/Kissankart) |
 
 
 
@@ -163,5 +164,6 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
