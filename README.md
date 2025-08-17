@@ -158,12 +158,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 146   |  Detect hate speech in real-time using deep learning mode | [👆](https://github.com/krishnareddy006/HATE-SPEECH-DETECTION-THROUGH-HYBRIB-DEEP-LEARNING-TECHNIQUE) |
 | 147   |  Face Mood Analyzer is an AI application that detects emotions in photos and creates music based on those emotions.   | [👆](https://github.com/Alex9104/face-mood-analyzer) |
 | 148   |  Research Paper Organizer | [👆](https://github.com/supriya46788/Research-Paper-Organize) |
+| 149   | Smart Health Diagnosis, Monitoring and Tracking.  | [👆](https://github.com/Bat-Man-Developer/Healthcare-Friends-Software) |
 
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
