@@ -160,11 +160,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 148   |  Research Paper Organizer | [👆](https://github.com/supriya46788/Research-Paper-Organize) |
 | 149   | Smart Health Diagnosis, Monitoring and Tracking.  | [👆](https://github.com/Bat-Man-Developer/Healthcare-Friends-Software) |
 | 150   | Multiple Disease Prediction Model  | [👆](https://github.com/Pedro-Verissimo/Multiple_Disease_Prediction_Model) |
-
+| 151   | Garbage Image Classification (CNN)  | [👆](https://github.com/ichio78/garbage-classifier) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
