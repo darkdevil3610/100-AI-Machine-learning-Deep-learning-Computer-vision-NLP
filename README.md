@@ -161,10 +161,13 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 149   | Smart Health Diagnosis, Monitoring and Tracking.  | [👆](https://github.com/Bat-Man-Developer/Healthcare-Friends-Software) |
 | 150   | Multiple Disease Prediction Model  | [👆](https://github.com/Pedro-Verissimo/Multiple_Disease_Prediction_Model) |
 | 151   | Garbage Image Classification (CNN)  | [👆](https://github.com/ichio78/garbage-classifier) |
+| 152   | AI-Powered SOC Detection System  | [👆](https://github.com/cyberarber/ai-soc-detection-system) |
+
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
