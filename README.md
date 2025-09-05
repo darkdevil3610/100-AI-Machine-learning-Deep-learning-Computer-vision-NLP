@@ -162,11 +162,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 150   | Multiple Disease Prediction Model  | [👆](https://github.com/Pedro-Verissimo/Multiple_Disease_Prediction_Model) |
 | 151   | Garbage Image Classification (CNN)  | [👆](https://github.com/ichio78/garbage-classifier) |
 | 152   | AI-Powered SOC Detection System  | [👆](https://github.com/cyberarber/ai-soc-detection-system) |
+| 153   | Gesture Volume Control  | [👆](https://github.com/AdilShamim8/Gesture-Volume-Control) |
+
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
