@@ -166,11 +166,13 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 154   |  Number Plate Detection System | [👆](https://github.com/anuragaryanyt/number_plate_detection) |
 | 155   | Motion-Controlled 3D Game 🎮🍉 . Using PoseNet for real-time hand tracking  | [👆](https://github.com/omana1/Motion-controlled-3D-game) |
 | 156   | 👁️ Eye Training: Read Faster, Train Your Eyes!  | [👆](https://github.com/manishanis/eye-training) |
+| 157   | 🎨 AI-ClothingTryOn - Try On Clothes Virtually with Ease  | [👆](https://github.com/Regirockstone99/AI-ClothingTryOn) |
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
