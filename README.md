@@ -168,11 +168,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 156   | 👁️ Eye Training: Read Faster, Train Your Eyes!  | [👆](https://github.com/manishanis/eye-training) |
 | 157   | 🎨 AI-ClothingTryOn - Try On Clothes Virtually with Ease  | [👆](https://github.com/Regirockstone99/AI-ClothingTryOn) |
 | 158   | Create large-scale synthetic training data for model distillation and evaluation  | [👆](https://github.com/lukehinds/deepfabric) |
+| 159   | Pediatric Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI | [👆](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai) |
+
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
