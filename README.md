@@ -170,12 +170,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 158   | Create large-scale synthetic training data for model distillation and evaluation  | [👆](https://github.com/lukehinds/deepfabric) |
 | 159   | Pediatric Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI | [👆](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai) |
 | 160   | YOLOv8 Vehicle Damage Detector  | [👆](https://github.com/NabilNawa/YOLOv8-Vehicle-Damage-Detector) |
+| 161   | facial expression at the retail stores at diiferent positions  | [👆](https://github.com/Tagore2004/Retail-ERS) |
 
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
