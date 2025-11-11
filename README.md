@@ -172,11 +172,13 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 160   | YOLOv8 Vehicle Damage Detector  | [👆](https://github.com/NabilNawa/YOLOv8-Vehicle-Damage-Detector) |
 | 161   | Facial expression at the retail stores at diiferent positions  | [👆](https://github.com/Tagore2004/Retail-ERS) |
 | 162   | Steg-Frontend: Advanced Data Security  | [👆](https://github.com/jessica908/steg-frontend) |
+| 163   | 🎒 Itinerary-Management - Simplify Your Travel Planning  | [👆](https://github.com/Rupesh276/Itinerary-Management) |
 
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
