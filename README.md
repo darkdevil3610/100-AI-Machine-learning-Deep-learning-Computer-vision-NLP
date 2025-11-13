@@ -175,10 +175,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 163   | 🎒 Itinerary-Management - Simplify Your Travel Planning  | [👆](https://github.com/Rupesh276/Itinerary-Management) |
 | 164   | Healthcare Facilitation Platform | [👆](https://github.com/Md-Adeem/SHAFIMED) |
 | 165   | Job application tracker - Full stack app | [👆](https://github.com/shanmukh-025/AppTrackr) |
+| 166   | Automated OMR Sheet Grading System | [👆](https://github.com/Naveen-Jayaraj/OMR-Evaluation-APP) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
