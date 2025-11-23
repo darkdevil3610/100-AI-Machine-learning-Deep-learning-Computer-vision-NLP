@@ -177,10 +177,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 165   | Job application tracker - Full stack app | [👆](https://github.com/shanmukh-025/AppTrackr) |
 | 166   | Automated OMR Sheet Grading System | [👆](https://github.com/Naveen-Jayaraj/OMR-Evaluation-APP) |
 | 167   | 📧 Spam–Ham Classifier | [👆](https://github.com/roshan-acharya/SpamClassifier) |
+| 168   | 🛡️ DevOps Fraud Shield | [👆](https://github.com/Abdul9010150809/DEVOPS-FRAUD-DETECTION) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
