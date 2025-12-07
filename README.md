@@ -183,26 +183,11 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 171   | dspyground - Effortlessly Generate Quality Prompts  | [👆](https://github.com/emanuellescho/dspyground) |
 | 172   | 🧬 Arr-Medic-CYP3A4 - Predict Drug Interactions Easily  | [👆](https://github.com/steffanhoez/Arr-Medic-CYP3A4) |
 | 173   | gemini-resume-screener - Streamline Your Resume Screening  | [👆](https://github.com/AriPhantump/gemini-resume-screener) |
+| 174   | Real-Time Speech-to-Text App with Wav2Vec2  | [👆](https://github.com/Sourav-x-3202/Live_Speech-to-Text) |
 
 ***More Projects list is coming...!!!***
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
