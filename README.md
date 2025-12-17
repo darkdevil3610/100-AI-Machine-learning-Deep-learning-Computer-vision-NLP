@@ -185,10 +185,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 173   | gemini-resume-screener - Streamline Your Resume Screening  | [👆](https://github.com/AriPhantump/gemini-resume-screener) |
 | 174   | Real-Time Speech-to-Text App with Wav2Vec2  | [👆](https://github.com/Sourav-x-3202/Live_Speech-to-Text) |
 | 175   | 🌟 gemini-resume-screener - Streamline Your Resume Screening  | [👆](https://github.com/AriPhantump/gemini-resume-screener) |
+| 176   | Healthcare-Application - Your AI Partner in Patient Care  | [👆](https://github.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
