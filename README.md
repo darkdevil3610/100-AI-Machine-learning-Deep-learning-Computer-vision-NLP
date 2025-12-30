@@ -188,10 +188,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 176   | Healthcare-Application - Your AI Partner in Patient Care  | [👆](https://github.com/fidashah9297/Medical-AI-Assistant---Production-Ready-Healthcare-Application) |
 | 177   | News 24x7 - is built as an educational and experimental project.  | [👆](https://github.com/matinabbassi786-ux/News24x7) |
 | 178   | 🌍 All-India Air Pollution Health Risk Dashboard  | [👆](https://github.com/Devendrapandey7642/All-India-Air-Pollution-Health-Risk-Dashboard) |
+| 179   | 🫀 HeartFail-Predict - Predict Cardiac Risks Easily  | [👆](https://github.com/Bonnelselme/HeartFail-Predict) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
