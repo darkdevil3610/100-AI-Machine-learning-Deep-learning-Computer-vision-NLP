@@ -190,10 +190,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 178   | 🌍 All-India Air Pollution Health Risk Dashboard  | [👆](https://github.com/Devendrapandey7642/All-India-Air-Pollution-Health-Risk-Dashboard) |
 | 179   | 🫀 HeartFail-Predict - Predict Cardiac Risks Easily  | [👆](https://github.com/Bonnelselme/HeartFail-Predict) |
 | 180   |  SMSGuard-Intelligent-Spam-SMS-Detection-System  | [👆](https://github.com/Wardah26Nabilah/SMSGuard-Intelligent-Spam-SMS-Detection-System) |
+| 181   |  🦠 chest-xray-covid19-classification - Detect COVID-19 from Chest X-rays  | [👆](https://github.com/alimalik122/chest-xray-covid19-classification) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
