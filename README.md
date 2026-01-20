@@ -195,10 +195,12 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 183   |  🧠 Brain-Tumor-Detection - Early Diagnosis with AI  | [👆](https://github.com/IvanPerico21/Brain-Tumor-Detection) |
 | 184   |  Lost Pet Reunion AI – Pila, Laguna  | [👆](https://github.com/Xhenzouu/lost-pet-ai) |
 | 185   |  Paper Explain Agent - pdf to animations  | [👆](https://github.com/mihirballari/PaperExplainAgent) |
+| 186   |  🏥 E-Drug Store Administration  | [👆](https://github.com/Muhammad-Ahmad-Jutt/E-Drug-Store-Administration) |
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
