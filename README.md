@@ -143,7 +143,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 131   |  News Summarizer is an AI-powered platform | [👆](https://github.com/singhsourav0/NewsMinorProject) |
 | 132   |  AI-powered article summarizer of TheVerge    | [👆](https://github.com/jaideep156/TheVerge-Summarizer) |
 | 133   |  Recommending music based on your facial expressions    | [👆](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression) |
-| 134   |  AI-Powered Medical Consultation    | [👆](https://github.com/jw0902/MediAssist) |
+| 134   |  AI-Powered Medical Consultation    | [👆](https://github.com/Desai-Het/MediCare-AI) |
 | 135   |  YouTube MCP Server , an AI-powered solution for YouTube experience | [👆](https://github.com/blukglug/Youtube-MCP) |
 | 136   |  Signature Recognizer 🖊️   | [👆](https://github.com/ohyeasabhi/signature-recognizer) |
 | 137   |  CV and ML to analyze mental health based on face   | [👆](https://github.com/galihru/facemind) |
@@ -204,6 +204,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
