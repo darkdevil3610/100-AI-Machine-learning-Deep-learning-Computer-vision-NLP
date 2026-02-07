@@ -200,36 +200,11 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 188   |  🌍 waste-product-classification - Classify Waste Easily and Efficiently  | [👆](https://github.com/Kayzucker/waste-product-classification) |
 | 189   |  Stress Management UX Prototype  | [👆](https://github.com/Evalutik/stress-management-ux) |
 | 190   |  🫁 Respiratory Sound Analysis & Deep Learning Diagnosis System  | [👆](https://github.com/Zeyyan15/RespireAI) |
+| 191   |  Smart Parking Management System  | [👆](https://github.com/birsyangbo/-Parkingsewa-automatic-parking-management-system) |
 
 ***More Projects list is coming...!!!***
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
