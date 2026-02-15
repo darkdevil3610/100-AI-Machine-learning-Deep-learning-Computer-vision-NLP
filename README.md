@@ -203,10 +203,13 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 191   |  Smart Parking Management System  | [👆](https://github.com/birsyangbo/-Parkingsewa-automatic-parking-management-system) |
 | 192   |  🚔 Evidence Management System using Blockchain, IPFS & Pinata  | [👆](https://github.com/Teymur-Babayev/Evdience_Management_System) |
 | 193   |  Books and Stationery Stock Management System  | [👆](https://github.com/shrikantbdarekar/Books-and-Stationery-Stock-Management-System) |
+| 194   |  🎯 Automated-Detection-and-Identification-of-Missing-Person-using-AI | [👆](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI) |
+
 
 ***More Projects list is coming...!!!***
 
 ---
+
 
 
 
