@@ -205,6 +205,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 193   |  Books and Stationery Stock Management System  | [👆](https://github.com/shrikantbdarekar/Books-and-Stationery-Stock-Management-System) |
 | 194   |  🎯 Automated-Detection-and-Identification-of-Missing-Person-using-AI | [👆](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI) |
 | 195   |  heart-disease-prediction-ann - Predict Heart Disease with Ease  | [👆](https://github.com/convexpolygoncommonapricot120/heart-disease-prediction-ann) |
+| 196   |  SVM Diabetes Prediction: A Machine Learning Approach to Health 🩺  | [👆](https://github.com/LORD-BASALI-69/SVM-Diabetes-Prediction) |
 
 
 ***More Projects list is coming...!!!***
