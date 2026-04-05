@@ -208,13 +208,14 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 196   |  SVM Diabetes Prediction: A Machine Learning Approach to Health 🩺  | [👆](https://github.com/LORD-BASALI-69/SVM-Diabetes-Prediction) |
 | 197   |  Lung Cancer Risk Prediction with Logistic Regression: Clinico-Lifestyle Insights  | [👆](https://github.com/Agasthi1212/lung-cancer-prediction-logistic-regression) |
 | 198   |  Interactive Chatbot 🤖💬  | [👆](https://github.com/remylukunda/Interactive-Chatbot) |
+| 199   |  Pulmonary Carcinoma Detection Framework  | [👆](https://github.com/baokhanh546123/API_LungCancer) |
+
+
+
 
 ***More Projects list is coming...!!!***
 
 ---
-
-
-
 
 
 
