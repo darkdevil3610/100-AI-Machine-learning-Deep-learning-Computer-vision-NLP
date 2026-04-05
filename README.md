@@ -209,6 +209,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 197   |  Lung Cancer Risk Prediction with Logistic Regression: Clinico-Lifestyle Insights  | [👆](https://github.com/Agasthi1212/lung-cancer-prediction-logistic-regression) |
 | 198   |  Interactive Chatbot 🤖💬  | [👆](https://github.com/remylukunda/Interactive-Chatbot) |
 | 199   |  Pulmonary Carcinoma Detection Framework  | [👆](https://github.com/baokhanh546123/API_LungCancer) |
+| 200   |  🛡️ Anti_Phishing_Email_Detector_gui - Protect Your Inbox From Phishing Scams  | [👆](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui) |
 
 
 
