@@ -211,6 +211,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 199   |  Pulmonary Carcinoma Detection Framework  | [👆](https://github.com/baokhanh546123/API_LungCancer) |
 | 200   |  🛡️ Anti_Phishing_Email_Detector_gui - Protect Your Inbox From Phishing Scams  | [👆](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui) |
 | 201   |  🖼️ ai-image-upscaler - Easily Enhance Your Images  | [👆](https://github.com/kaihsu0327/ai-image-upscaler) |
+| 202   |  Smart Face Attendance System with Flask & OpenCV  | [👆](https://github.com/stark-069/automated-face-attendance) |
 
 
 
