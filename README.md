@@ -213,6 +213,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 201   |  🖼️ ai-image-upscaler - Easily Enhance Your Images  | [👆](https://github.com/kaihsu0327/ai-image-upscaler) |
 | 202   |  Smart Face Attendance System with Flask & OpenCV  | [👆](https://github.com/stark-069/automated-face-attendance) |
 | 203   |  Smart Credit Risk XAI-AI Lending Intelligence  | [👆](https://github.com/AnmolMogalayi/Smart-Credit-Risk-XAI) |
+| 204   |  AI Stock Intelligence Platform for Indian Markets  | [👆](https://github.com/SankarGaneshb/Market-Rover) |
 
 
 
