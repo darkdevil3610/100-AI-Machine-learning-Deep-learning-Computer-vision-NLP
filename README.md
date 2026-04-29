@@ -214,7 +214,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 202   |  Smart Face Attendance System with Flask & OpenCV  | [👆](https://github.com/stark-069/automated-face-attendance) |
 | 203   |  Smart Credit Risk XAI-AI Lending Intelligence  | [👆](https://github.com/AnmolMogalayi/Smart-Credit-Risk-XAI) |
 | 204   |  AI Stock Intelligence Platform for Indian Markets  | [👆](https://github.com/SankarGaneshb/Market-Rover) |
-
+| 205   |  AI-Powered Smart Road Visibility & Hazard Detection System  | [👆](https://github.com/zartashaansari/ZenDrive_Project) |
 
 
 ***More Projects list is coming...!!!***
