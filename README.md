@@ -216,6 +216,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 204   |  AI Stock Intelligence Platform for Indian Markets  | [👆](https://github.com/SankarGaneshb/Market-Rover) |
 | 205   |  AI-Powered Smart Road Visibility & Hazard Detection System  | [👆](https://github.com/zartashaansari/ZenDrive_Project) |
 | 206   |  📧 Email Spam Detector  | [👆](https://github.com/ghulammuhayyudin1003/Email-Spam-Detector) |
+| 207   |  AI-Based Online Examination Proctoring System  | [👆](https://github.com/victorjudysen/ai-exam-proctoring-system) |
 
 
 
