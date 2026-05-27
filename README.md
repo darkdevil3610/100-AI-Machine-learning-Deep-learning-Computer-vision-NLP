@@ -219,6 +219,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 207   |  AI-Based Online Examination Proctoring System  | [👆](https://github.com/victorjudysen/ai-exam-proctoring-system) |
 | 208   |  Agricultural Data Analysis  | [👆](https://github.com/Prodoorknob/Agricultural_Data_Analysis) |
 | 209   |  🧠 Brain Tumor Detection using Machine Learning  | [👆](https://github.com/IshaqRiaz/brain-tumor-detection-ml) |
+| 210   |  AgroNDVI — satellite monitoring of rice fields  | [👆](https://github.com/EValentyuk/AgroNDVI) |
+
 
 
 
