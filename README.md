@@ -220,6 +220,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 208   |  Agricultural Data Analysis  | [👆](https://github.com/Prodoorknob/Agricultural_Data_Analysis) |
 | 209   |  🧠 Brain Tumor Detection using Machine Learning  | [👆](https://github.com/IshaqRiaz/brain-tumor-detection-ml) |
 | 210   |  AgroNDVI — satellite monitoring of rice fields  | [👆](https://github.com/EValentyuk/AgroNDVI) |
+| 211   |  Daily tracking of tech job demand, salaries & remote trends  | [👆](https://github.com/evgeniimatveev/job-market-pulse) |
 
 
 
