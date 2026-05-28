@@ -1,9 +1,44 @@
 <a name="readme-top"></a>
-# 100 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=100%20AI%20%2B%20ML%20%2B%20DL%20Projects&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=A%20decade%20of%20real-world%20AI%20experience%20in%20one%20repository&descAlignY=58&descSize=16" />
+
+
 
 ***100 + AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 
+## What's Inside
 
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=flat-square&logoColor=white" /><br/>
+      <sub>Traditional algorithms, ensemble methods, statistical modeling, feature engineering, and advanced regression/classification pipelines.</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-Deep%20Learning-6C5CE7?style=flat-square&logoColor=white" /><br/>
+      <sub>CNNs, RNNs, LSTMs, GANs, Transformers, Autoencoders, and other modern neural architectures.</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-Computer%20Vision-00B894?style=flat-square&logoColor=white" /><br/>
+      <sub>Real-time image processing, object detection, segmentation, pose estimation, and visual anomaly detection.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-NLP-FDCB6E?style=flat-square&logoColor=black" /><br/>
+      <sub>Contextual embeddings, sentiment analysis, text classification, language modeling, and advanced text analytics.</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-Generative%20AI-E17055?style=flat-square&logoColor=white" /><br/>
+      <sub>LLM integrations, prompt engineering, LangChain pipelines, and RAG-based applications.</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-Hybrid%20Solutions-74B9FF?style=flat-square&logoColor=black" /><br/>
+      <sub>Cross-domain AI integrations that combine ML, DL, CV, and NLP to tackle complex real-world problems.</sub>
+    </td>
+  </tr>
+</table>
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-suresh/)
 
@@ -239,6 +274,16 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
   [↑ Back to Top](#readme-top) &nbsp;
 
 </div>
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=darkdevil3610%2F100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left" />
+ </picture>
+</a>
 
 
 
