@@ -260,6 +260,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 212   |  🚧 Intelligent Analysis System for Construction Safety Risks  | [👆](https://github.com/jensenzhong/Construction-Safety-Risk-Analysis-System-Based-on-RAG-LLM) 
 | 213   |  Multiple Disease Prediction Model 🧬  | [👆](https://github.com/Pedro-Verissimo/Multiple_Disease_Prediction_Model) |
 | 214   |  🚀 Movie Matcher Flex Enterprise-Scale Movie Recommendation Engine  | [👆](https://github.com/suryaaxc/Movie-Matcher-Flex) |
+| 215   |  AI-Powered Voice-Controlled PDF Editor & Document Intelligence Platform  | [👆](https://github.com/VARA4u-tech/AI-VoiceControlled-PDF-Editor) |
+
 
 
 
