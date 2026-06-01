@@ -262,6 +262,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 214   |  🚀 Movie Matcher Flex Enterprise-Scale Movie Recommendation Engine  | [👆](https://github.com/suryaaxc/Movie-Matcher-Flex) |
 | 215   |  AI-Powered Voice-Controlled PDF Editor & Document Intelligence Platform  | [👆](https://github.com/VARA4u-tech/AI-VoiceControlled-PDF-Editor) |
 | 216   |  MeetMindAI — Enterprise Meeting Intelligence & RAG Platform  | [👆](https://github.com/VARA4u-tech/AI_Meeting_Summerizer_Task_Manager) |
+| 217   |  RAG Chatbot using LangChain + Streamlit  | [👆](https://github.com/xdshivani/rag-chatbot) |
 
 
 
