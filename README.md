@@ -264,6 +264,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 216   |  MeetMindAI — Enterprise Meeting Intelligence & RAG Platform  | [👆](https://github.com/VARA4u-tech/AI_Meeting_Summerizer_Task_Manager) |
 | 217   |  RAG Chatbot using LangChain + Streamlit  | [👆](https://github.com/xdshivani/rag-chatbot) |
 | 218   |  PoC: Real-Time Fire Detection  | [👆](https://github.com/swarm-subnet/PoC-Real-time-fire-detection) |
+| 219   |  MedVLM: Chest X-Ray Report Generation | [👆](https://github.com/AKMessi/medvlm) |
 
 
 
