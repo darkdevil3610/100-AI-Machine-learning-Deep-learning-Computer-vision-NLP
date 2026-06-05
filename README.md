@@ -267,6 +267,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 219   |  MedVLM: Chest X-Ray Report Generation | [👆](https://github.com/AKMessi/medvlm) |
 | 220   |  👁️ Digital Eye Strain Detection System | [👆](https://github.com/AbhiEE03/Eye_Strain_Detector) |
 | 221   |  🛡️ SpamShield · Email Analyzer | [👆](https://github.com/manmath647/Spam-Shield-spam-email-detection-using-logistic-regression) |
+| 222   |  TaskSignal - AI Problem Discovery Engine | [👆](https://github.com/Yurii201811/tasksignal) |
 
 
 
