@@ -181,7 +181,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 133   |  Recommending music based on your facial expressions    | [👆](https://github.com/kakaum2k/Music-Recommendation-Based-on-Facial-Expression) |
 | 134   |  AI-Powered Medical Consultation    | [👆](https://github.com/Desai-Het/MediCare-AI) |
 | 135   |  Help Desk Rostering | [👆](https://github.com/HDR3604/HelpDeskRostering) |
-| 136   |  Signature Recognizer 🖊️   | [👆](https://github.com/ohyeasabhi/signature-recognizer) |
+| 136   |  🖊️Signature Authenticator – AI Model (Time Series Classification)   | [👆](https://github.com/emircihangir/signature-analysis) |
 | 137   |  CV and ML to analyze mental health based on face   | [👆](https://github.com/galihru/facemind) |
 | 138   |  LLM-Driven News Generation   | [👆](https://github.com/kenchudigital/LLM-NewsHub) |
 | 139   |  Automated face recognition attendance system with real-time detection  | [👆](https://github.com/RudraChouhan03/facerecognitionattendancesystem) |
