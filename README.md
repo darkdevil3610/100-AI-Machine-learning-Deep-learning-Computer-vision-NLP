@@ -202,7 +202,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 154   |  Number Plate Detection System | [👆](https://github.com/anuragaryanyt/number_plate_detection) |
 | 155   | Motion-Controlled 3D Game 🎮🍉 . Using PoseNet for real-time hand tracking  | [👆](https://github.com/omana1/Motion-controlled-3D-game) |
 | 156   | 👁️ Eye Training: Read Faster, Train Your Eyes!  | [👆](https://github.com/manishanis/eye-training) |
-| 157   | 🎨 AI-ClothingTryOn - Try On Clothes Virtually with Ease  | [👆](https://github.com/Regirockstone99/AI-ClothingTryOn) |
+| 157   | AI-powered healthcare platform combining ML for multi-disease prediction  | [👆](https://github.com/pavanbadempet/AI-Healthcare-System) |
 | 158   | Create large-scale synthetic training data for model distillation and evaluation  | [👆](https://github.com/lukehinds/deepfabric) |
 | 159   | Pediatric Chest X-Ray Pneumonia Detection with Cross-Operator Validated AI | [👆](https://github.com/ayushirathour/chest-xray-pneumonia-detection-ai) |
 | 160   | YOLOv8 Vehicle Damage Detector  | [👆](https://github.com/NabilNawa/YOLOv8-Vehicle-Damage-Detector) |
