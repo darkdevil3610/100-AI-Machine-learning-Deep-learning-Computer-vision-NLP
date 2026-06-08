@@ -270,6 +270,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 222   |  TaskSignal - AI Problem Discovery Engine | [👆](https://github.com/Yurii201811/tasksignal) |
 | 223   |  🛡 Scam Detector - web application that detects scam messages | [👆](https://github.com/KlavitoOfTech/ai-scam-detector) |
 | 224   |  AI-Powered Ingredient Detection & Recipe Recommendation Platform | [👆](https://github.com/kishan-koli/Snapchef-ai) |
+| 225   |  🌫️ BreatheAnalyser AQI App | [👆](https://github.com/Naveen-Jayaraj/BreatheAnalyser_AQI) |
 
 
 
