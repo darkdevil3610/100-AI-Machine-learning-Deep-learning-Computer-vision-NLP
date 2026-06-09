@@ -272,6 +272,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 224   |  AI-Powered Ingredient Detection & Recipe Recommendation Platform | [👆](https://github.com/kishan-koli/Snapchef-ai) |
 | 225   |  🌫️ BreatheAnalyser AQI App | [👆](https://github.com/Naveen-Jayaraj/BreatheAnalyser_AQI) |
 | 226   |  PDF RAG with LangGraph | [👆](https://github.com/vaibhaviprakash/pdf-rag-langgraph) |
+| 227   |  🎛️ pcb-defect-detection - Detect PCB Defects Easily | [👆](https://github.com/Djthesinger/pcb-defect-detection) |
 
 
 
