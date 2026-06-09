@@ -273,6 +273,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 225   |  🌫️ BreatheAnalyser AQI App | [👆](https://github.com/Naveen-Jayaraj/BreatheAnalyser_AQI) |
 | 226   |  PDF RAG with LangGraph | [👆](https://github.com/vaibhaviprakash/pdf-rag-langgraph) |
 | 227   |  🎛️ pcb-defect-detection - Detect PCB Defects Easily | [👆](https://github.com/Djthesinger/pcb-defect-detection) |
+| 228   |  AI-Powered Online Examination Proctoring System | [👆](https://github.com/akshitsrijan001/EXAMGUARDAI) |
 
 
 
