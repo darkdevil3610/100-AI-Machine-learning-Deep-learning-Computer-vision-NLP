@@ -274,7 +274,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 226   |  PDF RAG with LangGraph | [👆](https://github.com/vaibhaviprakash/pdf-rag-langgraph) |
 | 227   |  🎛️ pcb-defect-detection - Detect PCB Defects Easily | [👆](https://github.com/Djthesinger/pcb-defect-detection) |
 | 228   |  AI-Powered Online Examination Proctoring System | [👆](https://github.com/akshitsrijan001/EXAMGUARDAI) |
-
+| 229   |  🕶️ smart-glass-assistive-vision - Helping Vision Through AI | [👆](https://github.com/randieturkeysized781/smart-glass-assistive-vision) |
 
 
 
