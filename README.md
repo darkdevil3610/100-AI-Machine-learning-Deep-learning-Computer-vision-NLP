@@ -277,6 +277,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 229   |  🕶️ smart-glass-assistive-vision - Helping Vision Through AI | [👆](https://github.com/randieturkeysized781/smart-glass-assistive-vision) |
 | 230   |  🎥 local-llm-video-captioning - Caption videos on your Mac | [👆](https://github.com/Calhot942/local-llm-video-captioning) |
 | 231   |  🧪 MedTrace - Verify Medicine Authenticity Easily | [👆](https://github.com/27Harsh-Tamrakar/MedTrace) |
+| 232   |  WA Media Report Manager | [👆](https://github.com/shrikantbdarekar/WA-Media-API) |
 
 
 
