@@ -278,6 +278,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 230   |  🎥 local-llm-video-captioning - Caption videos on your Mac | [👆](https://github.com/Calhot942/local-llm-video-captioning) |
 | 231   |  🧪 MedTrace - Verify Medicine Authenticity Easily | [👆](https://github.com/27Harsh-Tamrakar/MedTrace) |
 | 232   |  WA Media Report Manager | [👆](https://github.com/shrikantbdarekar/WA-Media-API) |
+| 233   |  🤖 chatbot-conversation-analysis - Analyze Conversations Easily | [👆](https://github.com/argad2672/chatbot-conversation-analysis) |
 
 
 
