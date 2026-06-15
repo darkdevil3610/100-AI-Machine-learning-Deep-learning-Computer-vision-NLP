@@ -281,6 +281,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 233   |  🤖 chatbot-conversation-analysis - Analyze Conversations Easily | [👆](https://github.com/argad2672/chatbot-conversation-analysis) |
 | 234   |  CorpLens - AI-powered flower recognition system | [👆](https://github.com/jannatul-fredaues/CropLens-AI) |
 | 235   |  EdgeAttend AI - AI-Powered Offline Biometric Attendance System | [👆](https://github.com/sandipkalola/EdgeAttend-AI) |
+| 236   |  AI vs Human Image Detector | [👆](https://github.com/salmansarwar95/AI-vs-Human-Image-Detector) |
 
 
 
