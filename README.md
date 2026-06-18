@@ -284,6 +284,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 236   |  AI vs Human Image Detector | [👆](https://github.com/salmansarwar95/AI-vs-Human-Image-Detector) |
 | 237   |  Waste-Mitra - AI-powered smart waste management system that classifies waste | [👆](https://github.com/Lokeshbhosale1234/waste-mitra) |
 | 238   |  VocaTwin - AI-Powered Voice Cloning & Animated Avatar Generation | [👆](https://github.com/TahaUser5/voca-twin) |
+| 239   |  EduSense - AI Based Assessment System | [👆](https://github.com/khubabraza/EduSense-AI-Assessment-System) |
 
 
 
