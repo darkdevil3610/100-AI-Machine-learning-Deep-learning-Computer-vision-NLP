@@ -282,7 +282,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 234   |  CorpLens - AI-powered flower recognition system | [👆](https://github.com/jannatul-fredaues/CropLens-AI) |
 | 235   |  EdgeAttend AI - AI-Powered Offline Biometric Attendance System | [👆](https://github.com/sandipkalola/EdgeAttend-AI) |
 | 236   |  AI vs Human Image Detector | [👆](https://github.com/salmansarwar95/AI-vs-Human-Image-Detector) |
-| 237   |  Waste-Mitra - AI-powered smart waste management system that classifies waste | [👆](https://github.com/salmansarwar95/AI-vs-Human-Image-Detector) |
+| 237   |  Waste-Mitra - AI-powered smart waste management system that classifies waste | [👆](https://github.com/Lokeshbhosale1234/waste-mitra) |
+| 238   |  VocaTwin - AI-Powered Voice Cloning & Animated Avatar Generation | [👆](https://github.com/TahaUser5/voca-twin) |
 
 
 
