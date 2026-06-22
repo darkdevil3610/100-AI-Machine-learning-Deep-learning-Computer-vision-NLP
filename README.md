@@ -287,6 +287,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 239   |  EduSense - AI Based Assessment System | [👆](https://github.com/khubabraza/EduSense-AI-Assessment-System) |
 | 240   |  FALCON:- Automatic Crime Alert & Reporting System | [👆](https://github.com/Astik97/FALCON) |
 | 241   |  🎥 AI Video Intelligence Platform | [👆](https://github.com/Amaldaskm7736/ai-video-intelligence-platform) |
+| 242   |  CRM Orchestration System (Contact Digitization Platform) | [👆](https://github.com/Dhuvie/Card-Orchestration) |
 
 
 
