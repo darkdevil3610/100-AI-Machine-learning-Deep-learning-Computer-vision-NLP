@@ -290,7 +290,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 242   |  CRM Orchestration System (Contact Digitization Platform) | [👆](https://github.com/Dhuvie/Card-Orchestration) |
 | 243   |  Respiratory Disease Classification from Lung Audio | [👆](https://github.com/pritamsardar-dev/portfolio-respiratory-disease-diagnosis-ai-v1) |
 | 244   |  Paper2Agent - Transform Research Papers Effortlessly | [👆](https://github.com/mangzz12/Paper2Agent) |
-
+| 245   |  🚀 AI-Powered-Resume-Analyzer - Analyze Your Resume with Ease | [👆](https://github.com/kokozaid785/AI-Powered-Resume-Analyzer) |
 
 
 
