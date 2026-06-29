@@ -293,6 +293,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 245   |  🚀 AI-Powered-Resume-Analyzer - Analyze Your Resume with Ease | [👆](https://github.com/kokozaid785/AI-Powered-Resume-Analyzer) |
 | 246   |  ⚡ edge-upi-risk-intelligence - Detect Fraud in UPI Transactions | [👆](https://github.com/MalickMoon1/edge-upi-risk-intelligence) |
 | 247   |  NeuroMap — Brain Tumor Detection & Classification | [👆](https://github.com/heisenbug62/NeuroMap---Brain-Tumor-Detection-Classification) |
+| 248   |  🌾 Agri_Vision - Predict Crop Yields with Ease | [👆](https://github.com/safi0bha/Agri_Vision) |
+
 
 
 
