@@ -168,7 +168,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 120   | Medical Recommendation System predicts diseases based on user-input symptoms  | [👆](https://github.com/Ktrimalrao/Medicine-Recommendation-System) |
 | 121   |  Regression model for Big City Health Inventory data | [👆](https://github.com/WASSUP-AIModel-3rd-Project1/Project-1) |
 | 122   | 🎓 ZachCourse - AI-Powered Personalized Learning | [👆](https://github.com/19akshansh/zachcourse) |
-| 123   |  AI-Resume-Matcher - Simplify Your Resume Screening Process  | [👆](https://github.com/septiankoromat/AI-Resume-Matcher) |
+| 123   |  🐾 PawPilot — AI Animal Rescue OS  | [👆](https://github.com/iprasuk/PawPilot) |
 | 124   |  A list of popular github projects related to deep learning | [👆](https://github.com/aymericdamien/TopDeepLearning) |
 | 125   |  Motion Detector and Email Sender with PiCamera2 and OpenCV  | [👆](https://github.com/aranbarri/motion-detector-mailsender) |
 | 126   |  License Plate Detection with YOLOv11 and PaddleOCR | [👆](https://github.com/MAX134/DeepPlate) |
