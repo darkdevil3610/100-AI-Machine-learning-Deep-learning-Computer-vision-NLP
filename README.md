@@ -298,6 +298,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 250   |  CyberAegis AI - AI-Powered Phishing & Deepfake Detection Platform | [👆](https://github.com/KYABARSHINAVYA/CyberAegis-AI) |
 | 251   |  🤖 fraud-detection-credit-mlops - Spot Card Fraud Faster | [👆](https://github.com/bintang3703/fraud-detection-credit-mlops) |
 | 252   |  Smart Traffic Intelligence System | [👆](https://github.com/SiddhiB-05/Smart_traffic_Intelligence) |
+| 253   |  🌐 RDF 1.1 Package & Multi-Agent Semantic Pipeline | [👆](https://github.com/somul18/RDF_Project_v1) |
 
 
 
