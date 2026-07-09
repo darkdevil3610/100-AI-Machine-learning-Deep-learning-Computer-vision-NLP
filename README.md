@@ -320,12 +320,11 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 <a href="https://www.star-history.com/?repos=darkdevil3610%2F100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&theme=dark&legend=top-left&sealed_token=bJrReWP_t9k0R8UYzQf2V51EUkm-OC18k7OLNtTNbmpbfxymWlFJlGbrsYlpyyV3FHuJxjoASHVXK1sSiJ9O0L9CiSw3Dqvm6D2sCBAGRH9WGVJrumWYhw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left&sealed_token=bJrReWP_t9k0R8UYzQf2V51EUkm-OC18k7OLNtTNbmpbfxymWlFJlGbrsYlpyyV3FHuJxjoASHVXK1sSiJ9O0L9CiSw3Dqvm6D2sCBAGRH9WGVJrumWYhw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP&type=date&legend=top-left&sealed_token=bJrReWP_t9k0R8UYzQf2V51EUkm-OC18k7OLNtTNbmpbfxymWlFJlGbrsYlpyyV3FHuJxjoASHVXK1sSiJ9O0L9CiSw3Dqvm6D2sCBAGRH9WGVJrumWYhw" />
  </picture>
 </a>
-
 
 
 
