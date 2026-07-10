@@ -300,6 +300,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 252   |  Smart Traffic Intelligence System | [👆](https://github.com/SiddhiB-05/Smart_traffic_Intelligence) |
 | 253   |  🌐 RDF 1.1 Package & Multi-Agent Semantic Pipeline | [👆](https://github.com/somul18/RDF_Project_v1) |
 | 254   |  HR Process Automation Scanner | [👆](https://github.com/gabriel-bohorquez/HR-Process-Automation-Scanner) |
+| 255   |  🌟 Pneumonia-HybridCNN - Detect Pneumonia from X-rays Easily | [👆](https://github.com/nourddinetaqi/Pneumonia-HybridCNN) |
 
 
 
