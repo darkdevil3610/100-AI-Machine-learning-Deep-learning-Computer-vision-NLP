@@ -304,6 +304,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 256   |  full-stack deepfake and misinformation detection platform | [👆](https://github.com/Studio-Ansh/Truthlensev2) |
 | 257   |  🧠 QR-AI-Chat - compressed until it fits entirely inside a single QR code | [👆](https://github.com/agarwalpranav0711/qr-ai-chat) |
 | 258   |  Smart ID Card Distribution Kiosk | [👆](https://github.com/musyani-io/card-issuance-system) |
+| 259   |  Vehicle Service Management and Operations Platform | [👆](https://github.com/MonishGowdaSR/Vehicle-Service-Management) |
 
 
 
