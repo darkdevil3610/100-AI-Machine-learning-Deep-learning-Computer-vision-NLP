@@ -307,6 +307,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 259   |  Vehicle Service Management and Operations Platform | [👆](https://github.com/MonishGowdaSR/Vehicle-Service-Management) |
 | 260   |  🤖 Autonomous AI Agent → Word Document Generator | [👆](https://github.com/hari9618/Autonomus_AI_Agent) |
 | 261   |  🤖 Jarvis AI Desktop Agent | [👆](https://github.com/dev-core-busy/jarvis) |
+| 262   |  MeetingAgent | [👆](https://github.com/Anatoliy-Sysoev/MeetingAgent) |
 
 
 
