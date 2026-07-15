@@ -308,6 +308,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 260   |  🤖 Autonomous AI Agent → Word Document Generator | [👆](https://github.com/hari9618/Autonomus_AI_Agent) |
 | 261   |  🤖 Jarvis AI Desktop Agent | [👆](https://github.com/dev-core-busy/jarvis) |
 | 262   |  MeetingAgent | [👆](https://github.com/Anatoliy-Sysoev/MeetingAgent) |
+| 263   |  🌾 MandiMitra — A Crop Market Advisor for Indian Farmers | [👆](https://github.com/AribaRazi/MandiMitra) |
 
 
 
