@@ -310,6 +310,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 262   |  MeetingAgent | [👆](https://github.com/Anatoliy-Sysoev/MeetingAgent) |
 | 263   |  🌾 MandiMitra — A Crop Market Advisor for Indian Farmers | [👆](https://github.com/AribaRazi/MandiMitra) |
 | 264   |  🤖 SwasthyaLink-Vernacular Voice Health Navigator | [👆](https://github.com/rahi4403/SwasthyaLink) |
+| 265   |  🏥 MedAI Suite - An AI-powered clinical diagnostic platform with 92.7% accuracy | [👆](https://github.com/sonararadhya/MedAI_Suite) |
 
 
 
