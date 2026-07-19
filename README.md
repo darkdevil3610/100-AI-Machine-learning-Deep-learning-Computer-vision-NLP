@@ -313,6 +313,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 265   |  🏥 MedAI Suite - An AI-powered clinical diagnostic platform with 92.7% accuracy | [👆](https://github.com/sonararadhya/MedAI_Suite) |
 | 266   |  💼 HireHub — Job Portal with ML Career Prediction | [👆](https://github.com/Zack1ns/hirehub) |
 | 267   |  Agentic Financial Intelligence Platform | [👆](https://github.com/LeelaissakAttota/agentic-financial-intelligence-platform) |
+| 268   |  CancerRCDPredictor | [👆](https://github.com/BioCancerInformatics/CancerRCDPredictor) |
+
 
 
 
