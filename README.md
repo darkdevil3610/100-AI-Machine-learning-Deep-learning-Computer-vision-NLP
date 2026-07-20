@@ -314,6 +314,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 266   |  💼 HireHub — Job Portal with ML Career Prediction | [👆](https://github.com/Zack1ns/hirehub) |
 | 267   |  Agentic Financial Intelligence Platform | [👆](https://github.com/LeelaissakAttota/agentic-financial-intelligence-platform) |
 | 268   |  CancerRCDPredictor | [👆](https://github.com/BioCancerInformatics/CancerRCDPredictor) |
+| 269   |  Autonomous AI Email Assistant for Gmail | [👆](https://github.com/SHalimoosavi/syj-mail-intelligence-ai) |
 
 
 
