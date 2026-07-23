@@ -316,6 +316,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 268   |  CancerRCDPredictor | [👆](https://github.com/BioCancerInformatics/CancerRCDPredictor) |
 | 269   |  Autonomous AI Email Assistant for Gmail | [👆](https://github.com/SHalimoosavi/syj-mail-intelligence-ai) |
 | 270   |  🌾 Smart Agriculture Analytic System (Agri-Smart) | [👆](https://github.com/xploreshivam/Smart_Agriculture_Analytic_System) |
+| 271   |  🗑️ PlasticSense: Smart Waste Sorting, AI Module | [👆](https://github.com/adnanegrb/PlasticSense) |
 
 
 
