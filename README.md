@@ -317,6 +317,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 269   |  Autonomous AI Email Assistant for Gmail | [👆](https://github.com/SHalimoosavi/syj-mail-intelligence-ai) |
 | 270   |  🌾 Smart Agriculture Analytic System (Agri-Smart) | [👆](https://github.com/xploreshivam/Smart_Agriculture_Analytic_System) |
 | 271   |  🗑️ PlasticSense: Smart Waste Sorting, AI Module | [👆](https://github.com/adnanegrb/PlasticSense) |
+| 272   |  CryptoPulse AI - Full-stack crypto analytics platform | [👆](https://github.com/varshith-k/cryptopulse-ai) |
 
 
 
