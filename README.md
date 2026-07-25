@@ -319,6 +319,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 271   |  🗑️ PlasticSense: Smart Waste Sorting, AI Module | [👆](https://github.com/adnanegrb/PlasticSense) |
 | 272   |  CryptoPulse AI - Full-stack crypto analytics platform | [👆](https://github.com/varshith-k/cryptopulse-ai) |
 | 273   |  VERA — Version-Explicit Retrieval & Answering | [👆](https://github.com/thebitanpaul/VERA) |
+| 274   |  🏛️ ArchAItect - Shape your business with AI | [👆](https://github.com/thebitanpaul/ArchAItect) |
 
 
 
