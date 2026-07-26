@@ -320,6 +320,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 272   |  CryptoPulse AI - Full-stack crypto analytics platform | [👆](https://github.com/varshith-k/cryptopulse-ai) |
 | 273   |  VERA — Version-Explicit Retrieval & Answering | [👆](https://github.com/thebitanpaul/VERA) |
 | 274   |  🏛️ ArchAItect - Shape your business with AI | [👆](https://github.com/thebitanpaul/ArchAItect) |
+| 275   |  🧪 PharmaCore - Fast AI drug discovery on your computer | [👆](https://github.com/ephedrinefop602/PharmaCore) |
 
 
 
