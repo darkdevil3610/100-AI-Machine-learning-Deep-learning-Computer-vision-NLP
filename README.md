@@ -323,6 +323,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 275   |  🧪 PharmaCore - Fast AI drug discovery on your computer | [👆](https://github.com/ephedrinefop602/PharmaCore) |
 | 276   |  📩 Spam Classifier | [👆](https://github.com/Deepak-132006/Spam-Classifier) |
 | 277   |  Face Detection Attendance System | [👆](https://github.com/Ganavi-GS/Attendance-Management-System-using-Face-Recognition) |
+| 278   |  🏨 Hotel Booking Cancellation Predictor & Risk Analysis | [👆](https://github.com/KentKan12/Hotel_Booking_Cancellation_Prediction) |
 
 
 
