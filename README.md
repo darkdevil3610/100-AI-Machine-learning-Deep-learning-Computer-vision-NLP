@@ -324,6 +324,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 276   |  📩 Spam Classifier | [👆](https://github.com/Deepak-132006/Spam-Classifier) |
 | 277   |  Face Detection Attendance System | [👆](https://github.com/Ganavi-GS/Attendance-Management-System-using-Face-Recognition) |
 | 278   |  🏨 Hotel Booking Cancellation Predictor & Risk Analysis | [👆](https://github.com/KentKan12/Hotel_Booking_Cancellation_Prediction) |
+| 279   |  AI Career Coach | [👆](https://github.com/renasalp-cloud/ai-career-coach) |
 
 
 
