@@ -325,6 +325,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 277   |  Face Detection Attendance System | [👆](https://github.com/Ganavi-GS/Attendance-Management-System-using-Face-Recognition) |
 | 278   |  🏨 Hotel Booking Cancellation Predictor & Risk Analysis | [👆](https://github.com/KentKan12/Hotel_Booking_Cancellation_Prediction) |
 | 279   |  AI Career Coach | [👆](https://github.com/renasalp-cloud/ai-career-coach) |
+| 280   |  🏥 Predicting Student Health Risk | [👆](https://github.com/mayankptdr/Predicting-Student-Health-Risk) |
 
 
 
