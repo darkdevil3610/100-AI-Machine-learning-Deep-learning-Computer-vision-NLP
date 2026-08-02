@@ -326,6 +326,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 278   |  🏨 Hotel Booking Cancellation Predictor & Risk Analysis | [👆](https://github.com/KentKan12/Hotel_Booking_Cancellation_Prediction) |
 | 279   |  AI Career Coach | [👆](https://github.com/renasalp-cloud/ai-career-coach) |
 | 280   |  🏥 Predicting Student Health Risk | [👆](https://github.com/mayankptdr/Predicting-Student-Health-Risk) |
+| 281   |  Intelligent Construction Project Risk Prediction System | [👆](https://github.com/sairakbar/Intelligent-Cost-and-Schedule-Forecasting-System) |
 
 
 
