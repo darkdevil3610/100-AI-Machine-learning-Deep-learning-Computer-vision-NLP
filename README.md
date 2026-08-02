@@ -327,6 +327,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 279   |  AI Career Coach | [👆](https://github.com/renasalp-cloud/ai-career-coach) |
 | 280   |  🏥 Predicting Student Health Risk | [👆](https://github.com/mayankptdr/Predicting-Student-Health-Risk) |
 | 281   |  Intelligent Construction Project Risk Prediction System | [👆](https://github.com/sairakbar/Intelligent-Cost-and-Schedule-Forecasting-System) |
+| 282   |  🌿AI Crop Doctor 🤖 | [👆](https://github.com/mwakidenis/smart-farmer) |
 
 
 
