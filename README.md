@@ -329,6 +329,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 281   |  Intelligent Construction Project Risk Prediction System | [👆](https://github.com/sairakbar/Intelligent-Cost-and-Schedule-Forecasting-System) |
 | 282   |  🌿AI Crop Doctor 🤖 | [👆](https://github.com/mwakidenis/smart-farmer) |
 | 283   |  🚀 SignalOS – AI Message Intelligence | [👆](https://github.com/codecraftpython-dev/signalos---ai-message-intelligence) |
+| 284   |  🧠 ClarityHire — AI Resume Screening & Bias Detection | [👆](https://github.com/Sobanshahid10/AI-Resume-Screening-Bias-Detection) |
 
 
 
