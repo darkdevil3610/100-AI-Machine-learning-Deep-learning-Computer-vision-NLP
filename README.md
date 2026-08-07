@@ -332,6 +332,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 284   |  🧠 ClarityHire — AI Resume Screening & Bias Detection | [👆](https://github.com/Sobanshahid10/AI-Resume-Screening-Bias-Detection) |
 | 285   |  🛰 NewsAgent AI | [👆](https://github.com/saigautam9/news-agent-ai) |
 | 286   |  QAI Consultant | [👆](https://github.com/gvasile29/qai-consultant) |
+| 287   |  AI CV Booster | [👆](https://github.com/Gowbles/AI-Resume-Booster) |
 
 
 
