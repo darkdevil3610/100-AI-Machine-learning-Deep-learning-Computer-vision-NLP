@@ -333,6 +333,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 285   |  🛰 NewsAgent AI | [👆](https://github.com/saigautam9/news-agent-ai) |
 | 286   |  QAI Consultant | [👆](https://github.com/gvasile29/qai-consultant) |
 | 287   |  AI CV Booster | [👆](https://github.com/Gowbles/AI-Resume-Booster) |
+| 288   |  🔍 Semantic Plagiarism Detection System | [👆](https://github.com/Ganesh-403/semantic-plagiarism-detector) |
 
 
 
