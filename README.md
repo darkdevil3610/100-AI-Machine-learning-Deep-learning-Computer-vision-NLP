@@ -335,6 +335,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 287   |  AI CV Booster | [👆](https://github.com/Gowbles/AI-Resume-Booster) |
 | 288   |  🔍 Semantic Plagiarism Detection System | [👆](https://github.com/Ganesh-403/semantic-plagiarism-detector) |
 | 289   |  CareerCast — AI-Powered Career Intelligence Platform | [👆](https://github.com/CHARUMATHID380/AI-powered-career-intelligence-platform) |
+| 290   |  Full-stack network intrusion detection tool | [👆](https://github.com/burkaygursel/NetAI) |
 
 
 
