@@ -338,6 +338,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 290   |  Full-stack network intrusion detection tool | [👆](https://github.com/burkaygursel/NetAI) |
 | 291   |  📓 Zoho Notes - note-taking with live code execution | [👆](https://github.com/Fayasktr/zohoNotesPro.dev) |
 | 292   |  AI Resume Mining & Candidate Matching System | [👆](https://github.com/nguyenhoangkhang-2010/AI-resume-mining-system) |
+| 293   |  🛡️ RASED AI — Real-time AI Safety Equipment Detection | [👆](https://github.com/Ammar-Salah/RASED-PPE-Detection) |
 
 
 
