@@ -341,6 +341,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 293   |  🛡️ RASED AI — Real-time AI Safety Equipment Detection | [👆](https://github.com/Ammar-Salah/RASED-PPE-Detection) |
 | 294   |  CardioPulse - Smart Heart Disease Risk Prediction System | [👆](https://github.com/xploreshivam/Smart_Heart_Disease_Risk_Prediction) |
 | 295   |  🛡️ SEAD-AI — Social Engineering Attack Detection System | [👆](https://github.com/Sam-k-001/SEAD-AI) |
+| 296   |  ClimateVision - Open-source ML platform for detecting deforestation, ice melt ... | [👆](https://github.com/Climate-Vision/ClimateVision) |
 
 
 
