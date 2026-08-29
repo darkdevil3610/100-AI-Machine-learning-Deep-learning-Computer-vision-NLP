@@ -342,6 +342,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 294   |  CardioPulse - Smart Heart Disease Risk Prediction System | [👆](https://github.com/xploreshivam/Smart_Heart_Disease_Risk_Prediction) |
 | 295   |  🛡️ SEAD-AI — Social Engineering Attack Detection System | [👆](https://github.com/Sam-k-001/SEAD-AI) |
 | 296   |  ClimateVision - Open-source ML platform for detecting deforestation, ice melt ... | [👆](https://github.com/Climate-Vision/ClimateVision) |
+| 297   |  AURA — AI Wardrobe Intelligence | [👆](https://github.com/giulianigi-cmyk/aura-wardrobe-intelligence) |
 
 
 
