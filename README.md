@@ -346,6 +346,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 298   |  🦠 malaria-cell-detection - Accurate malaria detection from images | [👆](https://github.com/leonroddis11232432/malaria-cell-detection) |
 | 299   |  MedBridge - 🏥 Hospital medicine-exchange platform  | [👆](https://github.com/17sushil/MedBridge) |
 | 300   |  🚀 TechLearn - Empowering African Youth Through Technology Education  | [👆](https://github.com/mwakidenis/TechLearn-Kenya) |
+| 301   |  Aegis Finance - market intelligence platform with a self-auditing research  | [👆](https://github.com/Murathanx12/Aegis-Finance) |
 
 
 
