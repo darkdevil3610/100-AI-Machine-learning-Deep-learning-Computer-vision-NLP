@@ -349,9 +349,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 301   |  Aegis Finance - market intelligence platform with a self-auditing research  | [👆](https://github.com/Murathanx12/Aegis-Finance) |
 | 302   |  🩺 NovaGen Labs: Lifestyle-Based Health Risk Prediction  | [👆](https://github.com/vedantnik/NovaGen-Labs-Health-Risk-Prediction) |
 | 303   |  🧠 MindEase - A transparent ML prototype for stress-aware language analysis.  | [👆](https://github.com/moizaiqbal40-ops/Mindease) |
-
-
-
+| 304   |  📄 ats-resume-scorer - Score Your Resume Against Any Job Instantly  | [👆](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer) |
 
 
 
