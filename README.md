@@ -348,6 +348,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 300   |  🚀 TechLearn - Empowering African Youth Through Technology Education  | [👆](https://github.com/mwakidenis/TechLearn-Kenya) |
 | 301   |  Aegis Finance - market intelligence platform with a self-auditing research  | [👆](https://github.com/Murathanx12/Aegis-Finance) |
 | 302   |  🩺 NovaGen Labs: Lifestyle-Based Health Risk Prediction  | [👆](https://github.com/vedantnik/NovaGen-Labs-Health-Risk-Prediction) |
+| 303   |  🧠 MindEase - A transparent ML prototype for stress-aware language analysis.  | [👆](https://github.com/moizaiqbal40-ops/Mindease) |
 
 
 
