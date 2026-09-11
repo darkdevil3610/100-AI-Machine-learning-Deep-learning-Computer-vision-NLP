@@ -352,6 +352,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 304   |  📄 ats-resume-scorer - Score Your Resume Against Any Job Instantly  | [👆](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer) |
 | 305   |  🏥 AI-Med-Prognosis - Predict Health Risks with Ease  | [👆](https://github.com/nicolasnoobmc-prog/AI-Med-Prognosis) |
 | 306   |  🛡️ PhishScope - Protect Yourself From Phishing Links  | [👆](https://github.com/abdulla2951/PhishScope) |
+| 307   |  SexEst - web application for predicting biological sex from skeletal measurements  | [👆](https://github.com/cconsta1/SexEst) |
 
 
 
