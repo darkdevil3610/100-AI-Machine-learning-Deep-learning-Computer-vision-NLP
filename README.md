@@ -354,6 +354,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 306   |  🛡️ PhishScope - Protect Yourself From Phishing Links  | [👆](https://github.com/abdulla2951/PhishScope) |
 | 307   |  SexEst - web application for predicting biological sex from skeletal measurements  | [👆](https://github.com/cconsta1/SexEst) |
 | 308   |  🏦 Bank Customer Churn Prediction  | [👆](https://github.com/cssadewale/bank-customer-churn-prediction) |
+| 309   |  🏥 Patient Survival Prediction  | [👆](https://github.com/aafreen1318/Patient-Survival-Prediction) |
 
 
 
