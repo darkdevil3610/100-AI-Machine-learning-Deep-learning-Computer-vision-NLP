@@ -355,6 +355,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 307   |  SexEst - web application for predicting biological sex from skeletal measurements  | [👆](https://github.com/cconsta1/SexEst) |
 | 308   |  🏦 Bank Customer Churn Prediction  | [👆](https://github.com/cssadewale/bank-customer-churn-prediction) |
 | 309   |  🏥 Patient Survival Prediction  | [👆](https://github.com/aafreen1318/Patient-Survival-Prediction) |
+| 310   |  Agentic Vectorial Graph RAG with Reinforcement Learning  | [👆](https://github.com/anissfhd/agentic-vectorial-graph-rag) |
 
 
 
