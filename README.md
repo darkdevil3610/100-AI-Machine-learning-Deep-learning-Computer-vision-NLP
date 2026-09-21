@@ -356,6 +356,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 308   |  🏦 Bank Customer Churn Prediction  | [👆](https://github.com/cssadewale/bank-customer-churn-prediction) |
 | 309   |  🏥 Patient Survival Prediction  | [👆](https://github.com/aafreen1318/Patient-Survival-Prediction) |
 | 310   |  Agentic Vectorial Graph RAG with Reinforcement Learning  | [👆](https://github.com/anissfhd/agentic-vectorial-graph-rag) |
+| 311   |  E-commerce Product Recommender  | [👆](https://github.com/Hosseinsoy/Ecommerce-Product-Recommender) |
 
 
 
