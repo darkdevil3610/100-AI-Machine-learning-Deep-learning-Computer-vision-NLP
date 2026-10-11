@@ -361,6 +361,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 313   |  🚀 Server Health Monitoring System (SHMS)  | [👆](https://github.com/bandhav100/Server-Health-Monitoring-System) |
 | 314   |  WebChat AI - Production-ready multi-tenant AI chatbot SaaS  | [👆](https://github.com/riturajlabs/webchat-AI) |
 | 315   |  🧳 tourism-demand-ml - Predict Tourism Demand Simply  | [👆](https://github.com/jgrjguj9653/tourism-demand-ml) |
+| 316   |  Fingerprint-Based Blood Group Detection  | [👆](https://github.com/siddu907/Blood-prediction-using-finger-print-images) |
 
 
 
