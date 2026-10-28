@@ -364,6 +364,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 316   |  Fingerprint-Based Blood Group Detection  | [👆](https://github.com/siddu907/Blood-prediction-using-finger-print-images) |
 | 317   |  🔍 Suspicious-Action-Detection - Spot Risky Behavior Fast  | [👆](https://github.com/Loamy-funiculus628/Suspicious-Action-Detection) |
 | 318   |  VisionGuard: Agentic Video Safety & Incident Response  | [👆](https://github.com/kbytehub0x/visionguard) |
+| 319   |  AI-powered C/C++ vulnerability detection using CodeBERT  | [👆](https://github.com/aly-abbas11/SecureScan-AI) |
 
 
 
