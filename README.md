@@ -367,6 +367,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 319   |  AI-powered C/C++ vulnerability detection using CodeBERT  | [👆](https://github.com/aly-abbas11/SecureScan-AI) |
 | 320   |  Sales Intel AI — Sales Prediction Dashboard & Analytics Platform  | [👆](https://github.com/mohamedemaan/AI-Powered-Sales-Intelligence-Forecasting-Platform) |
 | 321   |  GlobeFair - A 3D virtual career fair, built in Unity.  | [👆](https://github.com/youssefsadquy/globefair) |
+| 322   |  🛡️ ASTRA - Explainable, Tamper-Evident Network Threat Detection | [👆](https://github.com/MHanzala74/ASTRA-Cyber-Threat-Detection) |
 
 
 
